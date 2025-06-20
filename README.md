@@ -1,2 +1,3 @@
 # raya
-utils and programs for raya related projects
+
+monorepo for my irrelevant silly side projects
